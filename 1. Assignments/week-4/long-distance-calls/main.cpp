@@ -1,7 +1,7 @@
 /*
 Author:                  Andy Zheng
 Class:                   CSI-140-04
-Assignment:              Drunk driving
+Assignment:              Long distance price calculator.
 Date Assigned:           9/10/23
 Due Date:                10/8/23
 
